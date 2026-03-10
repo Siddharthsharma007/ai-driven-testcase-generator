@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+python-multipart
+openai
+pymupdf
+docx2txt
+pytesseract
+pandas
+openpyxl
+python-docx
+requests
+zipfile36 
